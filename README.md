@@ -69,13 +69,13 @@ You can fork the repo, make changes, and submit a pull request if you want.
 
 To compile and run this project locally:
 
-# Navigate to your project folder
+## Navigate to your project folder
 cd Dupleek-singhambeef-troup-lee
 
-# Compile with g++ (example)
+## Compile with g++ (example)
 g++ -o dupleek main.cpp
 
-# Run the executable
+## Run the executable
 ./dupleek
 
 
